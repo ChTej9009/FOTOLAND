@@ -219,7 +219,7 @@ header.videography{
 
 header.graphics{
     font-family: mainFont;
-    background-color:#13191D;
+    background-color:#3b4952;
     color:#786B34;
 }
 .graphicservices{
@@ -230,7 +230,9 @@ header.graphics{
     color:#13191D;
 }
 .graphicfooter{
-    background-color:#13191D;
+    /* background-color:#13191D; */
+    background-color:#3b4952;
+
 }
 
 
@@ -243,7 +245,7 @@ header.graphics{
 /* contact us */
 
 #ContactUs{
-    background-color: #879399;
+    background-color: #91c0d7;
     display:flex;
     flex: 1;
     flex-direction: column;  text-align: center;
